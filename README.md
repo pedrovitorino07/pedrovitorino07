@@ -7,5 +7,6 @@ Opa, me chamo Pedro Vitorino 👋
 
 <div>
 <a href="https://github.com/pedrovitorino07">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?tokyonight=anuraghazra&theme=dark&show_icons=true/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitorino07&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pedrovitorino07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
