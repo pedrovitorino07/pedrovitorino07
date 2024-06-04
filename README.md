@@ -7,6 +7,5 @@ Opa, me chamo Pedro Vitorino 👋
 
 <div>
 <a href="https://github.com/pedrovitorino07">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?pedro=vitorino-07-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?pedro=vitorino-07-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?tokyonight=anuraghazra&theme=dark&show_icons=true/>
 </div>
