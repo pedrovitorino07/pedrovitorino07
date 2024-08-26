@@ -10,9 +10,9 @@ Sou um desenvolvedor full stack apaixonado por tecnologia e sempre em busca de n
 ## 🚀 Minhas Habilidades
 
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
-- **Backend:** PHP, Node.js, Python
-- **Banco de Dados:** MySQL, MongoDB
-- **Ferramentas:** Git, Visual Studio Code, Docker
+- **Backend:** PHP, Jsbs, Python
+- **Banco de Dados:** MySQL
+- **Ferramentas:** Git, Visual Studio Code
 
 ## 📊 GitHub Stats
 
