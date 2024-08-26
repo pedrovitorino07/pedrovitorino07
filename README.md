@@ -21,7 +21,4 @@ Sou um desenvolvedor full stack apaixonado por tecnologia e sempre em busca de n
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pedrovitorino07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-## 📫 Como me encontrar
 
-- Instagram: [@_pedrovito](https://www.instagram.com/_pedrovito/)
-- Email: [pedrolucasofici@gmail.com](mailto:pedrolucasofici@gmail.com)
