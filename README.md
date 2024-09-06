@@ -3,8 +3,8 @@
 Sou um desenvolvedor full stack apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. Aqui no meu GitHub, você vai encontrar uma variedade de projetos que mostram meu interesse em desenvolvimento web, sistemas complexos e soluções criativas para problemas do dia a dia.
 
 <div>
-<a href="https://www.instagram.com/_pedrovito/"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/pedro-vitorino2004/"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+<a href="https://www.instagram.com/_pedrovito/"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-vitorino2004/"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
 <a href = "mailto:pedrolucasofici@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
