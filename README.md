@@ -1,12 +1,23 @@
-## Pedro Vitorino
+# 👋 Olá, eu sou Pedro Vitorino!
 
-Desenvolvedor full-stack apaixonado por criar soluções inovadoras.
+Sou um desenvolvedor full stack apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. Aqui no meu GitHub, você vai encontrar uma variedade de projetos que mostram meu interesse em desenvolvimento web, sistemas complexos e soluções criativas para problemas do dia a dia.
 
-### Habilidades
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** PHP, Java, Python
-* **Banco de Dados:** MySQL
-* **Ferramentas:** Git, VS Code
+<div>
+<a href="https://www.instagram.com/_pedrovito/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/pedro-vitorino2004/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
+<a href = "mailto:pedrolucasofici@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-### GitHub Stats
-[Image of GitHub Stats: https://github-readme-stats.vercel.app/api?username=pedrovitorino07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true]
+## 🚀 Minhas Habilidades
+
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+- **Backend:** PHP, Java, Python
+- **Banco de Dados:** MySQL
+- **Ferramentas:** Git, Visual Studio Code
+
+## 📊 GitHub Stats
+
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitorino07&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pedrovitorino07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
