@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1>Olá, eu sou Pedro Vitorino!</h1> 
 
 <h3>Estudante de análise e desenvolvimento de sistemas</h3>
