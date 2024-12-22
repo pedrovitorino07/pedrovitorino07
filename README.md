@@ -5,7 +5,6 @@
 <h3>Estudante de análise e desenvolvimento de sistemas</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=pedrovitorino07&theme=dark" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrovitorino07&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitorino07&hide=html&layout=compact&theme=dark" alt="Language"/>
 
 
 </div>
